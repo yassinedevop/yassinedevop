@@ -52,9 +52,9 @@
           <br />
           <!-- third row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=qt%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm%2Cgrafana%2Cdart%2Carchlinux%2Candroidstudio%2Clatex&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=qt%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm%2Cgrafana%2Cdart%2Carchlinux%2Candroidstudio%2Clatex&theme=light" />
-            <img src="https://skillicons.dev/icons?i=qt%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm%2Cgrafana%2Cdart%2Carchlinux%2Candroidstudio%2Clatex&theme=light" alt="skills - 3" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=qt%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm%2Cgrafana%2Cdart%2Carch%2Candroidstudio%2Clatex&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=qt%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm%2Cgrafana%2Cdart%2Carch%2Candroidstudio%2Clatex&theme=light" />
+            <img src="https://skillicons.dev/icons?i=qt%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm%2Cgrafana%2Cdart%2Carch%2Candroidstudio%2Clatex&theme=light" alt="skills - 3" />
         </picture>
   </a>
 </p>
