@@ -38,23 +38,23 @@
   <a href="https://skillicons.dev">
       <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cgit%2Clinux%2Cembeddedc%2Cvim%2Cvscode&theme=dark" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cgit%2Clinux%2Cembeddedc%2Cvim%2Cvscode&theme=light" />
-          <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cgit%2Clinux%2Cembeddedc%2Cvim%2Cvscode&theme=light" alt="skills - 1" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cgit%2Clinux%2Cembeddedc%2Cvim%2Cvscode%2Cmarkdown&theme=dark" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cgit%2Clinux%2Cembeddedc%2Cvim%2Cvscode%2Cmarkdown&theme=light" />
+          <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cgit%2Clinux%2Cvim%2Cvscode%2Cmarkdown&theme=light" alt="skills - 1" />
         </picture>
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=can%2Cdocker%2Carm%2Cbash%2Caws%2Craspberrypi&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=can%2Cdocker%2Carm%2Cbash%2Caws%2Craspberrypi&theme=light" />
-            <img src="https://skillicons.dev/icons?i=can%2Cdocker%2Carm%2Cbash%2Caws%2Craspberrypi&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=can%2Cdocker%2Carm%2Cbash%2Caws%2Craspberrypi%2Carduino%2Cgithub&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=can%2Cdocker%2Carm%2Cbash%2Caws%2Craspberrypi%2Carduino%2Cgithub&theme=light" />
+            <img src="https://skillicons.dev/icons?i=can%2Cdocker%2Cbash%2Caws%2Craspberrypi%2Carduino%2Cgithub&theme=light" alt="skills - 2" />
         </picture>
           <br />
           <!-- third row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linuxkernel%2Cqt%2Czephyr&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=linuxkernel%2Cqt%2Czephyr&theme=light" />
-            <img src="https://skillicons.dev/icons?i=linuxkernel%2Cqt%2Czephyr&theme=light" alt="skills - 3" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=qt%2Czephyr%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=qt%2Czephyr%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm&theme=light" />
+            <img src="https://skillicons.dev/icons?i=qt%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm&theme=light" alt="skills - 3" />
         </picture>
   </a>
 </p>
@@ -70,6 +70,7 @@
           <img src='https://skillicons.dev/icons?i=aws%2Cazure%2Cdocker' alt="deployment" />
         </picture>
   </a>
+</p>
 <br />
 
 <!-- additional tools -->
@@ -77,12 +78,13 @@
 <p align="center">
   <a href="https://skillicons.dev">
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=vim%2Cvscode%2Cgithub%2Cgit&theme=dark' />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=vim%2Cvscode%2Cgithub%2Cgit&theme=light' />
-          <img src='https://skillicons.dev/icons?i=vim%2Cvscode%2Cgithub%2Cgit' alt="additional tools" />
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=vim%2Cvscode%2Cgithub%2Cgit%2Cmarkdown&theme=dark' />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=vim%2Cvscode%2Cgithub%2Cgit%2Cmarkdown&theme=light' />
+          <img src='https://skillicons.dev/icons?i=vim%2Cvscode%2Cgithub%2Cgit%2Cmarkdown' alt="additional tools" />
         </picture>
   </a>
 </p>
+
 
 
 <a href="https://www.logalert.app">
