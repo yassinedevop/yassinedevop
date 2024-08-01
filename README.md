@@ -38,23 +38,23 @@
   <a href="https://skillicons.dev">
       <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cgit%2Clinux%2Cvim%2Cvscode%2Cmarkdown%2Chtml&theme=dark" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cgit%2Clinux%2Cvim%2Cvscode%2Cmarkdown%2Chtml&theme=light" />
-          <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cgit%2Clinux%2Cvim%2Cvscode%2Cmarkdown%2Chtml&theme=light" alt="skills - 1" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cgit%2Clinux%2Cvim%2Cvscode%2Cmarkdown%2Chtml%2Ccmake%2Ceclipse&theme=dark" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cgit%2Clinux%2Cvim%2Cvscode%2Cmarkdown%2Chtml%2Ccmake%2Ceclipse&theme=light" />
+          <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cgit%2Clinux%2Cvim%2Cvscode%2Cmarkdown%2Chtml%2Ccmake%2Ceclipse&theme=light" alt="skills - 1" />
         </picture>
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cbash%2Caws%2Craspberrypi%2Carduino%2Cgithub%2Cdebian&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=docker%2Cbash%2Caws%2Craspberrypi%2Carduino%2Cgithub%2Cdebian&theme=light" />
-            <img src="https://skillicons.dev/icons?i=docker%2Cbash%2Caws%2Craspberrypi%2Carduino%2Cgithub%2Cdebian&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cbash%2Caws%2Craspberrypi%2Carduino%2Cgithub%2Cdebian%2Crabbitmq%2Cpostman%2Ckali%2Cfirebase&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=docker%2Cbash%2Caws%2Craspberrypi%2Carduino%2Cgithub%2Cdebian%2Crabbitmq%2Cpostman%2Ckali%2Cfirebase&theme=light" />
+            <img src="https://skillicons.dev/icons?i=docker%2Cbash%2Caws%2Craspberrypi%2Carduino%2Cgithub%2Cdebian%2Crabbitmq%2Cpostman%2Ckali%2Cfirebase&theme=light" alt="skills - 2" />
         </picture>
           <br />
           <!-- third row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=qt%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm%2Cgrafana&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=qt%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm%2Cgrafana&theme=light" />
-            <img src="https://skillicons.dev/icons?i=qt%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm%2Cgrafana&theme=light" alt="skills - 3" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=qt%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm%2Cgrafana%2Cdart%2Carchlinux%2Candroidstudio%2Clatex&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=qt%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm%2Cgrafana%2Cdart%2Carchlinux%2Candroidstudio%2Clatex&theme=light" />
+            <img src="https://skillicons.dev/icons?i=qt%2Cneovim%2Cgodot%2Cblender%2Cunrealengine%2Cnpm%2Cgrafana%2Cdart%2Carchlinux%2Candroidstudio%2Clatex&theme=light" alt="skills - 3" />
         </picture>
   </a>
 </p>
@@ -71,6 +71,7 @@
         </picture>
   </a>
 </p>
+
 
 
 
